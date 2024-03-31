@@ -1,3 +1,4 @@
+#!/bin/bash
 import scapy.all as sc
 import time
 import os
